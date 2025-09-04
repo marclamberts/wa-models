@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'soccerdonna_scraper'
+copyright = '2025, Marc Lamberts'
+author = 'Marc Lamberts'
 
 release = '0.1'
 version = '0.1.0'
