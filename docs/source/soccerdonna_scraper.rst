@@ -4,4 +4,4 @@ Soccerdonna Scraper
 .. autosummary::
    :toctree: generated
 
-   lumache
+   soccerdonna_scraper
